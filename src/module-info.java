@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author bkcus
+ *
+ */
+module JAVASDETPRACTICE {
+}
